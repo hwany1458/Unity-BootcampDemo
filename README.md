@@ -17,3 +17,7 @@ This is a iterative process, because, idealy, it has to be opened with each majo
 
 Unity 2017.2. (LTS)
 
+
+### Original Repository
+
+terraKote/Unity-Bootcamp
