@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./preview.png" alt="Bootcamp Preview"/>
+  <img src="Docs/preview.png" alt="Bootcamp Preview"/>
 </p>
 
 # Unity Bootcamp Demo
